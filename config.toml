@@ -1,7 +1,6 @@
-baseurl = "http://kayoarima.com/"
+baseurl = "http://www.kayodiet.com/"
 languageCode = "en-us"
 title = "Kayo Arima"
-#theme = "hugo-base-theme"
 theme = "landing-page-hugo"
 [params]
 	description = "Nutritional Service"

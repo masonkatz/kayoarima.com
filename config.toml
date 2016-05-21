@@ -1,0 +1,12 @@
+baseurl = "http://kayoarima.com/"
+languageCode = "en-us"
+title = "Kayo Arima"
+#theme = "hugo-base-theme"
+theme = "landing-page-hugo"
+[params]
+	description = "Nutritional Service"
+
+[[params.social]]
+	title = "email"
+	icon = "envelope-o"
+	url = "mailto:kayo.arima.katz@gmail.com"

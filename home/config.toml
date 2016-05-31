@@ -12,6 +12,7 @@ paginate = 10
 footnotereturnlinkcontents = "↩"
 
 [params]
+	code = "http://web.masonkatz.com/"
 	description = "Nutritional Service"
 	author = "Kayo Arima"
 	bio = "Blogger - Programmer - Gopher"

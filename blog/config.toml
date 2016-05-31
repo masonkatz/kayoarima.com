@@ -1,52 +1,34 @@
-baseurl = "http://www.kayodiet.com/"
+baseurl = "http://blog.kayodiet.com/"
 languageCode = "en-us"
 title = "Kayo Arima"
 theme = "hugo-icarus-theme"
 
-# Enable comments by entering your Disqus shortname
-disqusShortname = "fred"
-# Enable Google Analytics by entering your tracking code
+
+disqusShortname = "spf13"
 googleAnalytics = ""
-# Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"
 
-[params]
-	description = "Nutritional Service"
-	author = "Kayo Arima"
-	bio = "Blogger - Programmer - Gopher"
-	location = "San Diego, CA"
-	site_description = ""
-	copyright  = "Kayo Arima"
-	avatar = "img/kayo.png"
-	date_format = "2006-01-02"
-
-[[params.social]]
-	title = "email"
-	icon = "envelope-o"
-	url = "mailto:kayo.arima.katz@gmail.com"
 
 [permalinks]
     post = "/:year/:month/:day/:slug"
 
-# Create custom menu entries by defining a label and a link for
-# them. Since you can also link posts, you've the option the
-# place the links before or after them.
-#
-# E.g.: "Home" appears before all linked posts in the menu
-# and "Tags" / "Categories" after them.
-[[params.menu]]
-    before = true
-    label  = "Nutritional Services"
-    link   = "/"
+
+[params]
+    code = "http://web.masonkatz.com/"
+    home = "http://www.kayodiet.com/"
+    author = "Kayo Arima"
+    bio = "Blogger - Programmer - Gopher"
+    location = "Earth"
+    site_description = ""
+    copyright  = "Kayo Arima"
+    avatar = "img/kayo.png"
+    date_format = "2006-01-02"
 
 [social]
+    email           = "kayo.arima.katz@gmail.com"
     facebook        = "kayokatz"
     linkedin        = "kayo-arima-23358b4"
-    twitter         = ""
-    flickr          = ""
-    instagram       = ""
-    youtube         = ""
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -54,4 +36,3 @@ footnotereturnlinkcontents = "↩"
     categories = true
     tags = true
     tag_cloud = true
-

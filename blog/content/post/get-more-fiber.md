@@ -1,6 +1,7 @@
 +++
-title = "Get More Fiber in Your Diet"
-date = "2016-05-29"
+title  = "Get More Fiber in Your Diet"
+date   = "2016-05-29"
+banner = "images/get-more-fiber/banner.jpg"
 +++
 
 Dietary fiber (DF) has so many health benefits for us. DF is
@@ -44,19 +45,19 @@ Fiber-Rich Snack Examples (from USDA National Nutrient Database)
 
 Food | Serving | Fiber g/Serving
 --- | --- | ---
-Almond | ½ cup | 9
+Almond | 1/2 cup | 9
 Apple | 1 piece | 5.8
 Banana | 1 piece | 3.5
-Raspberry | ½ cup | 4
+Raspberry | 1/2 cup | 4
 Dark Chocolate (Torader Joe’s) | 1 bar | 4
 
 Fiber-Rich Appetizer Examples  (from USDA National Nutrient Database)
 
 Food | Serving | Fiber g/Serving
 --- | --- | ---
-Hummus | ½ cup | 8
-Edamame | ½ cup | 4
-Grilled portabella | ½ cup | 1.5
+Hummus | 1/2 cup | 8
+Edamame | 1/2 cup | 4
+Grilled portabella | 1/2 cup | 1.5
  
 ### Side effects
 
@@ -85,6 +86,8 @@ fruits.
  
 ## References
 
-1. Weickert MO & Pfeiffer AF (2008) Metabolic effects of dietary fiber consumption and prevention of diabetes.  J Nutr 138(3):439-442.
-2. National Research Council. The essential guide to nutrient requirements. The national academies press, Washington, DC, 2006
+1. Weickert MO & Pfeiffer AF (2008) Metabolic effects of dietary fiber
+consumption and prevention of diabetes.  J Nutr 138(3):439-442.
+2. National Research Council. The essential guide to nutrient
+requirements. The national academies press, Washington, DC, 2006
 

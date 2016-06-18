@@ -1,12 +1,12 @@
 baseurl = "http://blog.kayodiet.com/"
 languageCode = "en-us"
 title = "Kayo Arima"
-theme = "hugo-icarus-theme"
+theme = "blog"
 
 
-disqusShortname = "spf13"
-googleAnalytics = ""
-paginate = 10
+#disqusShortname = "spf13"
+
+paginate = 5
 footnotereturnlinkcontents = "↩"
 
 
@@ -15,6 +15,7 @@ footnotereturnlinkcontents = "↩"
 
 
 [params]
+    googleAnalytics = "UA-79556153-1"
     code = "http://web.masonkatz.com/"
     home = "http://www.kayodiet.com/"
     author = "Kayo Arima"
@@ -22,13 +23,15 @@ footnotereturnlinkcontents = "↩"
     location = "Earth"
     site_description = ""
     copyright  = "Kayo Arima"
-    avatar = "img/kayo.png"
+    avatar = "images/profile.jpg"
+    banner = "images/banner.png"
     date_format = "2006-01-02"
 
 [social]
     email           = "kayo.arima.katz@gmail.com"
     facebook        = "kayokatz"
     linkedin        = "kayo-arima-23358b4"
+
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]

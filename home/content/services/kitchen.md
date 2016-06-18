@@ -1,6 +1,6 @@
 +++
 title = "Kitchen Program"
-img   = "food/SaltedLemon.jpg"
+image = "food/SaltedLemon.jpg"
 +++
 
 It’s hard to cook if your kitchen is in a mess or not equipped well. I

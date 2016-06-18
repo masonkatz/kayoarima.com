@@ -1,6 +1,7 @@
 +++
 title = "No Calorie Count is Necessary"
 date = "2016-05-01"
+banner = "images/no-calorie-counting-is-necessary/banner.jpg"
 +++
 
 Obesity is a pandemic in the United States. About 61% of adults, or an estimated 108 million adults, are overweight or obese, a condition known to increase their risk for chronic diseases including hypertension, type 2 diabetes, stroke, heart diseases, osteoarthritis, gallbladder disease, sleep apnea and endometrial, breast, prostate, and colon cancers. The mainstream strategy on weight loss is a low-calorie and low-fat diet. A diet of 500-1,000 kcal/day reduction from usual intake (with lower than 30% of the calories as fat) is recommended by the American Heart Association and other experts (10). However, accumulated studies have proven how meaningless calorie counting is and why people on such a low-fat diet with calorie restriction have failed to lose weight or gain back weight very quickly. 

@@ -1,6 +1,7 @@
 +++
 title = "Hydration 101 for Athletic People"
 date = "2016-04-13"
+banner = "images/hydration-101/banner.jpg"
 +++
 
  

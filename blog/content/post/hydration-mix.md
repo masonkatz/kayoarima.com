@@ -1,6 +1,7 @@
 +++
 title = "Kayo’s Hydration Powder Mix"
 date = "2016-05-29"
+banner = "images/hydration-mix/banner.jpg"
 +++
 
 

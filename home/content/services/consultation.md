@@ -1,6 +1,6 @@
 +++
 title = "Consultation"
-img   = "kayo.png"
+image = "profile.jpg"
 +++
 
 I listen to what are your health goals, what you cannot eat, what you

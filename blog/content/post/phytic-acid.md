@@ -1,6 +1,7 @@
 +++
 title = "Phytic Acid; Friend and Foe Nutrient"
 date = "2016-05-15"
+banner = "images/phytic-acid/banner.jpg"
 +++
 
  

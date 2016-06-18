@@ -1,6 +1,6 @@
 +++
 title = "Cooking Program"
-img   = "food/IMG_5241.jpg"
+image = "food/IMG_5241.jpg"
 +++
 
 Cooking can be easy if you know the right preparations. Let’s make a

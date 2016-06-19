@@ -1,0 +1,29 @@
+#!/bin/bash
+#
+# Find files:
+#
+# gdrive list -q "'kayo.arima.katz@gmail.com' in writers" | fgrep -i TOPIC
+
+
+GDRIVE=gdrive
+
+POSTS="1mAKHee65AHfQMMUHki_DrYWnsDWEnBW3L_Sea_xcyog 1aD-lv6h7QvLHGd6ex6yfgYSIwn6Px0RsgtnCHfjVTD4 1ttogJ99xG8zie27DEtQ8TtUGaAaOG8vjITJEIGJGdzQ 1A-nCHS2o9Ki2JbuUCWdyt8evtHwUbFl1XXKb4RTN0Mk 1p0Vo_NOJR1e_cNwVpICQ-vaPStjMB7VL9WsxTylDRQY 13gkF6GoREuGEWN7Ll6kJPnraQQz0ytHOpDX7-QD9Rp0 12EabVwP5D9DyZQdBHqRM8_7kvYMelpxO6CJcVGpEfes"
+
+for post in $POSTS; do
+	date=`$GDRIVE info $post | awk '/Created/ { print $2; }'`
+	title=`$GDRIVE info $post | awk '/Name/ { x=substr($0,6); gsub(/^[ \t]+/,"",x); print x}'`
+	filename=`$GDRIVE info $post | awk '/Name/ { x=substr($0,6); gsub(/^[ \t]+/,"",x); gsub(/[ \t]+$/,"",x); gsub(" ","-",x); print x}'`
+
+	cat > ${filename}.md << EOF
++++
+title  = "$title"
+date   = "$date"
+banner = "images/$filename/banner.jpg"
++++
+EOF
+
+	$GDRIVE export --mime text/plain --force $post
+	cat "$title.txt" >> ${filename}.md
+	rm -f "$title.txt"
+
+done

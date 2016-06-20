@@ -8,7 +8,7 @@ banner = "images/Phytic-Acid---Friend-and-Foe-Nutrient/banner.jpg"
 ## What is Phytic Acid (a.k.a. IP6)?
 
 
-![](/images/Phytic-Acid---Friend-and-Foe-Nutrient/PhyticAcid2.jpg)
+![](/images/Phytic-Acid---Friend-and-Foe-Nutrient/PhyticAcid4.jpg)
 
 
 Plants store phosphorus as phytic acid, known as inositol hexakisphosphate (IP6), which is bound to a mineral in the seed and create phytates. Phytates are abundant within the hulls of nuts, seeds, beans/legumes and whole grains. When a seed sprouts, stored phytates are degraded and used as an energy source. When we eat the plant, phytates are hydrolyzed during digestion to IP6 and other degradation products including IP1,2,3,4 and 5.
@@ -24,7 +24,7 @@ IP6 is considered as an anti-nutrient since it binds to iron, zinc and calcium i
 ## Reducing Phytates
 
 
-![](/images/Phytic-Acid---Friend-and-Foe-Nutrient/PhyticAcid4.jpg)
+![](/images/Phytic-Acid---Friend-and-Foe-Nutrient/PhyticAcid2.jpg)
 
 
 You can easily reduce phytates by soaking, sprouting, fermenting, cooking or combination of these methods. For example, soaking beans and cereals for overnight before cooking reduces cooking time in addition to reduce phytates. The sprouting of seeds, grains and legumes causes phytate degradation. Fermentation may sound strange but sourdough is a good example of combination methods. Soaking nuts and seeds is good idea not only for decreasing phytates but increasing nutrition values because moisture promotes enzymatic reactions making nuts softer so that more nutrients are available for you. 

@@ -10,15 +10,60 @@ html {
     height: 100%;
 }
 
+html,
 body,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: normal;
+div,
+span,
+applet,
+object,
+iframe,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  font-size: 100%;
 }
 
 .lead {
@@ -87,6 +132,15 @@ h6 {
     font-weight: 400;
     letter-spacing: 2px;
 }
+
+
+#about img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 100%;
+#  box-shadow: 0 0 0 1.5em #f0f0f0;
+}
+
 
 .content-section-a {
     padding: 50px 0;

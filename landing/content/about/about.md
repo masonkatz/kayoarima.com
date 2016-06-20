@@ -1,6 +1,7 @@
 +++
 weight = 0
 title = "Meet Kayo"
+image = "about.jpg"
 +++
 
 I was born and raised in Japan, where I received bachelor degree in
@@ -9,11 +10,18 @@ the US, I received PhD in Nutritional Science and Genetics from the
 University of Arizona, and worked at UC Irvine and UC San Diego as a
 bio-researcher.
 
-My Cooking Style is based on Japanese and Mediterranean cuisine.In
-addition to both being known as balanced diets, Japanese food is rich
-in dietary fiber and fermented foods while Mediterranean food is rich
-in healthy fats including olive oil, nuts and seeds.  Combining a
-variety of seafood, meats and beans with colorful vegetables and
-fruits creates healthy, beautiful and tasty meals.
+My Diet has two focal points:
+
+* Diet for your gut microbiome: Our gut has tens of trillions of
+  microorganisms with more than three million genes (150 times more
+  than in humans), which are deeply involved in our health. When your
+  microbiome goes out of balance, you increase your potential risks
+  for depression, anxiety, obesity, diabetes, and even cancer. My diet
+  aims at balancing your microbiome with prebiotics (dietary fiber)
+  and probiotics (fermented foods).
+
+* Thinking about physiology: The same foods can be either medicine or
+  poison depending on your physical condition. Let’s find the right
+  combination and timing of foods suitable for your lifestyle.
 
 

@@ -1,6 +1,6 @@
 +++
-title = "Consultation"
-image = "profile.jpg"
+title  = "Consultation"
+weight = 2
 +++
 
 I listen to what are your health goals, what you cannot eat, what you

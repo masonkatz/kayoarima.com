@@ -8,14 +8,23 @@ banner = "images/Fasted-Training/banner.jpg"
 ## Glycogen
 
 
+![](/images/Fasted-Training/Fasted2.png)
+
+
 Glycogen is a fast-burning and limited form of energy. The amount of glycogen stored in the liver ranges 60-120g (240 – 480 Cal), depending on the time of day and the carbohydrate content of your last meal. When your liver glycogen is low and exercise intensity is high, you are in the risk of hypoglycemia. Muscles hold much lower concentration of glycogen (1-2% of lean muscle) but the total amount exceeds that in the liver. For example, 1,200-2,000 Cal equivalent of glycogen can be stored in total muscle of 140 lb man with 10% body fat. However, particular muscles can only access the glycogen inside of it. This means that your quads cannot tap into the glycogen inside of your biceps. During riding or running, even trained athletes can use only 30-35% of their total muscles so the actual available energy from glycogen for exercise is about 400-700 Cal.
  
 ## Concept of fasted training
 
 
+![](/images/Fasted-Training/Fasted3.jpg)
+
+
 Scientific studies show that exercising in the fasted state stimulates training-induced adaptations in muscle cells to use fat oxidation (1-3) by increasing the number of mitochondria (to produce more energy) and blood vessels (to deliver more oxygen) (4). Fasted training aims to train the body to utilize fat more in the absence of blood glucose, helping stored glycogen last longer, increasing glycogen storage and stimulating the syntheses of mitochondria and blood vessels in working muscles. 
  
 **Training strategies** (adopted from [Dr. Asker Jeukendrup’s blog](http://www.mysportscience.com))
+
+
+![](/images/Fasted-Training/Fasted4.jpg)
 
 
 * Before breakfast is the best time since your body is in a caloric deficit.

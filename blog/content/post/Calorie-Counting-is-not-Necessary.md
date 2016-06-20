@@ -8,9 +8,15 @@ banner = "images/Calorie-Counting-is-not-Necessary/banner.jpg"
 ## Food digestion needs energy
 
 
+![](/images/Calorie-Counting-is-not-Necessary/Calorie1.jpg)
+
+
 The calorie values, such as 4 Cal/g for protein, 9 Cal/g for fat and 4 Cal/g for carbohydrate were assigned by a system developed by Atwater et. al more than 100 years ago (1). We use ~10% of our daily energy expenditure digesting and absorbing food. This percentage changes depending on the type and combination of food you eat. Protein needs more energy (20-35% of total calories in protein eaten is used to digest it) than carbohydrates (5-15%) and fats (5-15%) (2-3). For example, when you eat 100 Calories of protein, the true calorie intake in your body is 65-80 Calories, while same calories of carbohydrate and fat provide 85-95 calories. This is one of reasons that a calorie is not a calorie in the human body.
  
 ## Dietary fiber reduces your calorie intake
+
+
+![](/images/Calorie-Counting-is-not-Necessary/Calorie2.jpg)
 
 
 Few years ago, a study concluded that whole almonds provide about 20 per cent fewer calories than originally thought when they were consumed as part of a mixed diet (4). This means a 28-gram serving of almonds (about 23 almonds) has 129 Calories versus the 160 Calories currently listed on food package labels. This incident is not unique for almonds but happens with any fiber-rich foods and meals. When you eat whole food, such as vegetables, fruits, nuts, seaweeds, mushrooms and whole grains, your mixed diet has dietary fibers, which reduce our calorie intake from the meal by slowing the transit time of food from the stomach to the intestine, reducing digestion/absorption efficiency and decreasing fat absorption by interacting with bile acids in the intestine. As a result, calories from consumed foods with dietary fiber are completely different from those shown in nutrition facts. 
@@ -19,10 +25,16 @@ Few years ago, a study concluded that whole almonds provide about 20 per cent fe
 ## Gut microbes modify your calorie intake
 
 
+![](/images/Calorie-Counting-is-not-Necessary/Calorie3.png)
+
+
 Gut microbiome studies in mice and humans have shown certain bacteria help you to intake more calories (6). Even lean person can increase the calorie harvesting population by short-term overeating (7). 
 
 
 ## Calorie from fat and protein sheds weight
+
+
+![](/images/Calorie-Counting-is-not-Necessary/Calorie4.jpg)
 
 
 Our brains seem to be satisfied by fat and protein and let us stop eating automatically. A randomized trial of 53 healthy obese women for 6 months showed people who ate a very low carbohydrate diet (<10% of daily caloric intake) until full lost more weight than those who ate a low fat diet with calorie restriction (8). This and other studies show that a diet in low carbohydrate but high fat and protein suppresses appetite and makes people lose weight without portion control or calorie restriction (9).   

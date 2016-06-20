@@ -23,7 +23,9 @@ banner = "images/$filename/banner.jpg"
 EOF
 
 	$GDRIVE export --mime text/plain --force $post
-	cat "$title.txt" >> ${filename}.md
+	cat "$title.txt" | awk "/!\[.*\]\(.*\)/ { sub(/[\.\_\-a-zA-Z0-9]*\)/, \"/images/$filename/&\"); } {print}" >> ${filename}.md
+	dos2unix ${filename}.md
+
 	rm -f "$title.txt"
 
 done

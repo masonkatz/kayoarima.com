@@ -8,10 +8,16 @@ banner = "images/Hydration-101-for-Athletic-People/banner.jpg"
 ## Dehydration
 
 
+![](/images/Hydration-101-for-Athletic-People/Hydration2.jpg)
+
+
 Dehydration is defined as losing more than 1% of body weight (BW) due to fluid loss. Severe dehydration is defined as losing greater than 3% of BW. Even a small amount of dehydration in athletes can reduce their strength, endurance, coordination, mental acuity and thermoregulation. Thirst starts when 1–2% of BW has already been lost. In severe case of dehydration, recovery can take up to 18–24 hours even with good rehydration treatments (3).
 
 
 ## How much you need to drink?
+
+
+![](/images/Hydration-101-for-Athletic-People/Hydration3.jpg)
 
 
 It is hard to calculate the needs of fluid replacement during exercise since the amount varies by environmental factors, such as temperature, humidity, solar radiation and barometric pressure, and physiological/anatomical factors like your metabolic rate, core temperature, skin temperature, body mass and body surface area (5). Recommended volumes are 8–16 oz 1–2 hour before exercise, 4–8 oz for every 15 min during exercise and 24 oz after exercise for every pound of weight loss (3, 11). You can gradually learn how well you are hydrating by weighing yourself before and after your exercise in different conditions. Such feedback will develop a better sense of how much to drink for different intensity levels and environments.
@@ -22,6 +28,9 @@ It is hard to calculate the needs of fluid replacement during exercise since the
 Among the electrolytes lost by sweating, sodium is the most critical chemical for normal body function. Your body loses about 900 to 1400 mg of sodium per liter of sweat (1). Sufficient blood sodium is essential to maintain a sufficient volume of water in the blood. Sodium intake during your exercise should also help prevent water intoxication (hyponatremia), a condition in which the concentration of sodium in the blood becomes dangerously low. Since sodium loss in sweat is variable, it is hard to estimate how much sodium to consume. However, visible salt crystals on the skin or frequent urination can be signs of losing sodium. When you are losing a lot of salt and just drinking water, you may dehydrate yourself because your kidneys sense the diluted sodium levels and begin filtering excess water to let you pee more. Of course, trained athletes know that adding sodium in their drink during the exercise is a good practice but finding a perfect drink is challenging because not all sports drinks have enough sodium but excess sugar and additives. That is why I started to make [my own hydration powder mix](/2016/05/25/hydration-powder-mix/).
  
 ## Sports drink
+
+
+![](/images/Hydration-101-for-Athletic-People/Hydration4.jpg)
 
 
 I’ve never liked sports drinks, which are syrupy sweet with vivid colors and artificial flavors. Although sports drinks are intended to restore the fluid balance more quickly than water, replenish the electrolytes lost in sweat and provide glucose that quickly fuels working muscles, most drinks do not provide enough sodium and contain an excess amount of sugar and other additives, which may cause gastrointestinal (GI) distress. 
@@ -40,6 +49,9 @@ When you drink too much sugar and calories, the osmotic pressure in the stomach 
 
 
 ## Skratch Lab
+
+
+![](/images/Hydration-101-for-Athletic-People/skratch-lab-everyday-hydration-mix-1.jpg)
 
 
 So the simple solution is drinking a beverage that has more sodium and less sugar consisting of glucose and sucrose when you sweat a lot. One of brands I like is Skratch Labs Hydration Mix. A 16 oz serving Skratch Labs hydration mix (powder) has more sodium (360 mg) and less (4%) sugar than other brands. Other electrolytes contained in 16 oz serving are 40 mg of potassium, 49 mg of calcium, 45 mg of magnesium. The concentrations of electrolytes besides sodium are chosen to be similar to the compositions of sweat. The amount of sugar seems to maximize both water and sugar absorption without GI discomfort (5). The 900 mg of sodium can be replenished with 40 oz of drink including 50 g of sugar. 

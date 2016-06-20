@@ -6,13 +6,21 @@ banner = "images/Get-More-Fiber-in-Your-Diet/banner.jpg"
 ﻿Dietary fiber (DF) has so many health benefits for us. DF is indigestible for us but is fermented by beneficial bacteria that work in the colon to promote our health.
 
 
+![Seaweed](/images/Get-More-Fiber-in-Your-Diet/Fiber2.jpg)
+
+
 **There are two forms of fiber**; soluble and insoluble. Soluble fiber attracts water and turns to gel during digestion. Insoluble fiber adds bulk to stool. All fibers can work as prebiotics that increase good bacteria in the colon. Gut bacteria harvests energy from fibers and we absorb the byproducts such as B vitamins, vitamin K and short chain fatty acids that have been linked to health promoting effects, including a reduced risk of inflammatory diseases, diabetes, and cardiovascular disease.
 
 
 ## Benefits of fiber (1)
 
 
+![](/images/Get-More-Fiber-in-Your-Diet/Fiber3.jpg)
+
+
 Soluble DF
+
+
 * Decreases energy intake by slowing the transit time of food from the stomach to the intestine.
 * Reduces digestion/absorption efficiency
 * Decreases fat absorption by interacting with bile acids in the intestine.
@@ -20,16 +28,26 @@ Soluble DF
 
 
 Insoluble DF
+
+
+![](/images/Get-More-Fiber-in-Your-Diet/Fiber4.jpg)
+
+
 * Improves insulin sensitivity and decreases the risk of type 2 diabetes.
 * Improves satiety and reduce weight gain.
 
 
 All DF
+
+
 * Increases water-soluble vitamin production by feeding intestinal bacteria.
 * Improves the gut hormonal balance that control digestion and blood glucose.
 
 
 ## How much we should eat?
+
+
+![Ground Flax Seeds](/images/Get-More-Fiber-in-Your-Diet/Fiber5.jpg)
 
 
 The average Americans eat ~16 g of fiber per day. The adequate intake of DF is 19g/day for children older than 3y, 25g/day for women and 38g/day for men aged 19-50y (2). DF is rich in whole grains (e.g. oat, barley), nuts & seeds, beans, peas, seaweeds, mushrooms, some fruits and vegetables (e.g. avocado, radish, pumpkin).
@@ -64,6 +82,9 @@ Eating a large amount of fiber can cause intestinal gas, bloating, and abdominal
 
 
 ## Tips to eat more fiber
+
+
+![Frozen Veggies](/images/Get-More-Fiber-in-Your-Diet/Fiber6.jpg)
 
 
 To ensure that you get enough fiber, eat a variety of foods, including, whole grains, beans, peas, nuts, seaweeds, vegetables and fruits.

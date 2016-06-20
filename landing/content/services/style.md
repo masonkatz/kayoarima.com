@@ -11,4 +11,8 @@ in healthy fats including olive oil, nuts and seeds.  Combining a
 variety of seafood, meats and beans with colorful vegetables and
 fruits creates healthy, beautiful and tasty meals.
 
+Cooking demonstations and cooking classes are available by request. I
+can also create a fun cooking party for you and your friends and familty in
+your home.
+
 

@@ -1,12 +1,20 @@
 +++
 weight = 0
-title = "Meet Kayo"
+title = ""
 image = "about.jpg"
 +++
 
-I was born and raised in Japan, where I received bachelor degree in
+My Goal is your health for life. I let you control your appetite, food
+choices, and everyday meals with the backing of cutting edge
+science. Read useful information, such as why you don't need to
+[count calories](http://blog.kayodiet.com/2016/05/23/calorie-counting-is-not-necessary/),
+what
+[phytic acid](http://blog.kayodiet.com/2016/05/23/phytic-acid---friend-and-foe-nutrient/)
+is and more in my [blog](http://blog.kayodiet.com).
+
+I was born and raised in Japan, where I received a bachelor degree in
 Nutritional Science and certification as a registered dietitian. In
-the US, I received PhD in Nutritional Science and Genetics from the
+the US, I received a PhD in Nutritional Science and Genetics from the
 University of Arizona, and worked at UC Irvine and UC San Diego as a
 bio-researcher.
 

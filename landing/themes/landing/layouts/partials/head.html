@@ -2,30 +2,56 @@
 <html>
 <head>
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <base href="{{ .Site.BaseURL }}">
-    <title>{{ .Title }}</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="{{ .Site.Params.author }}">
 
-    <!-- Bootstrap Core CSS -->
-    <link href="{{ .Site.Params.code }}bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+<meta property="fb:app_id"      content="{{ .Site.Params.fbappid }}">
+<meta property="og:type"        content="website">
+<meta property="og:url"         content="{{ .Site.BaseURL }}">
+<meta property="og:title"       content="{{ .Site.Params.ogtitle }}">
+<meta property="og:image"       content="{{ .Site.Params.ogimage }}">
+<meta property="og:description" content="{{ .Site.Params.ogdescription }}">
 
-    <!-- Custom CSS -->
-    <link href="{{ .Site.BaseURL }}css/landing-page.css" rel="stylesheet">
 
-    <!-- Custom Fonts -->
-    <link href="{{ .Site.Params.code }}font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+<base href="{{ .Site.BaseURL }}">
+<title>{{ .Title }}</title>
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+<!-- Bootstrap Core CSS -->
+<link href="{{ .Site.Params.code }}bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+
+<!-- Custom CSS -->
+<link href="{{ .Site.BaseURL }}css/landing-page.css" rel="stylesheet">
+
+<!-- Custom Fonts -->
+<link href="{{ .Site.Params.code }}font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
 
 </head>
 <body>
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '{{ .Site.Params.fbappid }}',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>

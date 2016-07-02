@@ -9,8 +9,11 @@ theme = "landing"
 	description = "Nutritional Service"
 	author = "Kayo Arima"
 	location = "San Diego, CA"
-	site_description = ""
 	copyright  = "Kayo Arima"
+	fbappid       = "1621408731502594"
+	ogtitle       = "My goal is your health for life"
+	ogimage       = "http://www.kayodiet.com/images/og-image.jpg"
+	ogdescription = "I let you control your appetite, food choices, and everyday meals with the backing of cutting edge science. Read useful information, such as why you don’t need to count calories, what phytic acid is and more in my blog."
 
 [[params.social]]
 	title = "email"

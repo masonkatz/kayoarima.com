@@ -26,6 +26,7 @@ footnotereturnlinkcontents = "↩"
     avatar = "images/profile.jpg"
     banner = "images/banner.png"
     date_format = "2006-01-02"
+    fbappid     = "1032649383470440"
 
 [social]
     email           = "kayo.arima.katz@gmail.com"

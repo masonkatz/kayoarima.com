@@ -2,6 +2,7 @@
 title  = "Hydration 101 for Athletic People"
 date   = "2016-05-25"
 banner = "images/Hydration-101-for-Athletic-People/banner.jpg"
+images = [ "http://blog.kayodiet.com/images/Hydration-101-for-Athletic-People/banner.jpg" ]
 +++
 ﻿Dehydration is the number one enemy of all levels of athletes. The way you hydrate makes the greatest impact on your training, performance and recovery. A daily water intake (including from food) of 3.7L (~ 1 gallon) for adult men and 2.7L (0.7 gallon) for adult women meets the needs of most of people (1), while endurance sports and heat stress can greatly increase daily water needs. For example, endurance athletes can sweat 1 to 2L (34–67 oz) per hour and elite athletes can sweat 4L (~ 1 gallon) per hour in extreme conditions. Our bodies also lose 900 to 1400 mg of sodium per liter of sweat (2) in addition to a number of different electrolytes, including chloride, potassium, magnesium, and calcium, which are essential to maintain a functional body. The water and electrolytes lost in sweat must be replaced quickly to prevent an imbalance in body fluids and enhance exercise performance.
  

@@ -19,6 +19,7 @@ for post in $POSTS; do
 title  = "$title"
 date   = "$date"
 banner = "images/$filename/banner.jpg"
+images = [ "http://blog.kayodiet.com/images/$filename/banner.jpg" ]
 +++
 EOF
 

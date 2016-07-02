@@ -2,6 +2,7 @@
 title  = "Fasted Training"
 date   = "2016-05-29"
 banner = "images/Fasted-Training/banner.jpg"
+images = [ "http://blog.kayodiet.com/images/Fasted-Training/banner.jpg" ]
 +++
 ﻿When you are working out, your body is fueled by two forms of stored energy, fat stored in adipose tissue and glycogen, a polymer of glucose, stored in muscles and in the liver. Fat is a long-lasting and an almost limitless energy source. For example, a person weighing 100 pounds with 10% body fat has 10 pounds of stored fat, which can theoretically produce more than 30,000 calories (Cal), which is equivalent to 15-20 days amount of daily requirement. Of course, our metabolism is not so simple. Generally speaking, exercise below 50-65% of one’s maximum heart rate is in the fat burning (aerobic) zone and exercise at higher intensity is the anaerobic zone in which fat is not used much. Fasted training is designed to change this ratio; enhancing fat-burning capabilities and saving stored glycogen in endurance sports. As you get fitter, your body can become more energy efficient and burn fat even at a higher intensity level of exercise.
  

@@ -2,6 +2,7 @@
 title  = "Get More Fiber in Your Diet"
 date   = "2016-05-23"
 banner = "images/Get-More-Fiber-in-Your-Diet/banner.jpg"
+images = [ "http://blog.kayodiet.com/images/Get-More-Fiber-in-Your-Diet/banner.jpg" ]
 +++
 ﻿Dietary fiber (DF) has so many health benefits for us. DF is indigestible for us but is fermented by beneficial bacteria that work in the colon to promote our health.
 

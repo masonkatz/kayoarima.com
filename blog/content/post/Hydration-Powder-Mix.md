@@ -2,6 +2,7 @@
 title  = "Hydration Powder Mix"
 date   = "2016-05-25"
 banner = "images/Hydration-Powder-Mix/banner.jpg"
+images = [ "http://blog.kayodiet.com/images/Hydration-Powder-Mix/banner.jpg" ]
 +++
 ﻿When you are exercising for long durations and at a high level of intensity, your body requires more than water; sodium and other electrolytes that are lost in sweat and simple sugars that fuel working muscles. When you are sweating a lot, drinking simple water may dehydrate yourself because the kidneys sense the diluted sodium levels and begin filtering excess water to let you pee more. 
 

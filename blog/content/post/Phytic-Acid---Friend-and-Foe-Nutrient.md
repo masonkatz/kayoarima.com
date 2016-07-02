@@ -2,6 +2,7 @@
 title  = "Phytic Acid - Friend and Foe Nutrient"
 date   = "2016-05-23"
 banner = "images/Phytic-Acid---Friend-and-Foe-Nutrient/banner.jpg"
+images = [ "http://blog.kayodiet.com/images/Phytic-Acid---Friend-and-Foe-Nutrient/banner.jpg" ]
 +++
 ﻿People ask me if they should avoid phytic acid, which is commonly found in nuts seeds, beans and grains. My short answer is “No” if you are not vegan. Phytic acid is sold as IP6, an antioxidant with many health benefits. In fact, phytic acid is a nutrient that can act as both “friend and foe”, depending on the circumstances.
  

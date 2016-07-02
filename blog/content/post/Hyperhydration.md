@@ -2,6 +2,7 @@
 title  = "Hyperhydration"
 date   = "2016-05-25"
 banner = "images/Hyperhydration/banner.jpg"
+images = [ "http://blog.kayodiet.com/images/Hyperhydration/banner.jpg" ]
 +++
 ﻿When you are dehydrated, your athletic abilities, including strength, endurance, coordination, mental acuity and thermoregulation, are decreased. Hyperhydration is a method created by Van Rosendal et al (1) aiming to increase body water content before exercise in case that dehydration cannot be prevented when starting from a state of euhydration (the normal state of body water content). 
 

@@ -2,6 +2,7 @@
 title  = "Power of Whey Protein"
 date   = "2016-06-16"
 banner = "images/Power-of-Whey-Protein/banner.jpg"
+images = [ "http://blog.kayodiet.com/images/Power-of-Whey-Protein/banner.jpg" ]
 +++
 ﻿Whey protein is a common dietary supplement for increasing muscle mass and reducing the risk of obesity, type II diabetes, high blood pressure, inflammation, and oxidative stress. It is typically isolated from acidic liquid (whey) created during the cheese making process, making it a cheap and easily accessed commercial supplement. Whey protein is rapidly and effectively digested since it is water soluble, and it provides a high content of balanced essential amino acids (EAAs) with high dose of leucine. Whey protein stimulates muscle protein synthesis (MPS) more than other proteins such as casein and soy proteins, both at rest and following exercise in young and older adults (1).  
  
@@ -22,6 +23,10 @@ There are four major forms of whey, concentrate (WPC), isolate (WPI), hydrolysat
 
 
 Since most of whey proteins are separated from a byproduct of cheese productions, animal-rennet is probably involved in the process except for the native whey and whey protein products with kosher or halal mark are safe for lacto-vegetarian and Jewish people.
+
+
+
+
 
 
 ## References

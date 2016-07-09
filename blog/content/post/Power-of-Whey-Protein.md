@@ -22,9 +22,13 @@ There are four major forms of whey, concentrate (WPC), isolate (WPI), hydrolysat
 ## Lacto-vegetarian and Kosher options
 
 
-Since most of whey proteins are separated from a byproduct of cheese productions, animal-rennet is probably involved in the process except for the native whey and whey protein products with kosher or halal mark are safe for lacto-vegetarian and Jewish people.
+Since most of whey proteins are separated from a byproduct of cheese productions, animal-rennet is probably involved in the process. Lacto-vegetarians and Jewish people need to choose the native whey and whey protein products with kosher or halal mark that are free from animal-rennet.
 
 
+## How much whey protein after exercise? (1, 2)
+
+
+Numerous studies show MPS is maximally stimulated when 20g of high quality protein containing ~10g of EAAs and 1.7-2.4g of leucine. A 25g of WPI (90% of protein) contains 22.5g of protein including 3g of leucine, 12.4g of EAAs and 5.6g of BAAs. If you want to blend with 1 cup of milk, which contains 8g of protein with similar ratio of AAs, you can reduce the powder significantly.    
 
 
 

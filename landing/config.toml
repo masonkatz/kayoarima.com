@@ -6,7 +6,7 @@ theme = "landing"
 [params]
 	googleAnalytics = "UA-79556153-1"
 	code = "http://web.masonkatz.com/"
-	description = "Nutritional Service"
+#	description = "Nutritional Service"
 	author = "Kayo Arima"
 	location = "San Diego, CA"
 	copyright  = "Kayo Arima"
